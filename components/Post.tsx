@@ -1,6 +1,6 @@
 import React from "react";
-import Router from "next/router";
 import ReactMarkdown from "react-markdown";
+import Router from "next/router";
 
 export type PostProps = {
   id: string;
